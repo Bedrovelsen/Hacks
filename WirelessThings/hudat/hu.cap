@@ -1,0 +1,4 @@
+events.stream off
+set events.stream.output /home/pi/hudat/probez.txt
+events.stream on
+wifi.recon on
